@@ -2,7 +2,7 @@ HOSTNAME=deepakrohan.com
 NAMESPACE=edu
 NAME=roles
 BINARY=terraform-provider-${NAME}
-VERSION=0.1
+VERSION=0.3
 OS_ARCH=darwin_amd64
 
 default: install
